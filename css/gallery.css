@@ -1,0 +1,9 @@
+.grid_1_1_1{
+    padding-top: 25px;
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ height: fit-content;
+ width: fit-content;
+ gap: 4%;
+ margin: 50px;
+}

@@ -180,6 +180,7 @@ nav ul {
     padding-bottom: 50px;
   }
 }
+
 @media (max-width: 800px) {
   footer {
     text-align: center;

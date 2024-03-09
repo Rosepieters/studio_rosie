@@ -7,3 +7,16 @@
  gap: 4%;
  margin: 50px;
 }
+
+@media (max-width: 800px) {  
+    .grid_1_1_1{
+        padding-top: 25px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        height: fit-content;
+        width: fit-content;
+        gap: 4%;
+        margin: 50px;
+        padding-bottom: 100px;
+     }
+      }

@@ -31,15 +31,25 @@
     padding-left: 25%;
     padding-right: 10%;
 }
+
+.rose_overskrift{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+}
     
 .grid_1_1{
     grid-template-columns: repeat(1, 1fr);
     padding-left: 0; 
     padding-right: 15%;
     gap: 0;
- }
+}
 
- .tekst_rose{
+.tekst_rose{
     padding-top: 30px;
- }
-  }
+}
+
+p{
+    font-size: 15px;
+}
+}

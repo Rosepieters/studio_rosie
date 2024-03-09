@@ -10,3 +10,18 @@
     padding-top: 130px;
     padding-left: 45% ;
 }
+
+@media (max-width: 800px) {  
+    .overskrift_portfolio{
+        text-align: center;
+        padding-top: 100px;
+        font-size: 30px; 
+        padding-bottom: 40px;
+    }
+    
+    .link_portfolio{
+        text-align: center;
+        padding-top: 130px;
+        padding-left: 34% ;
+    }
+      }

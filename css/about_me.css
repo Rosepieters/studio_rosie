@@ -26,6 +26,20 @@
     font-size: 34px;
 }
 
-@media (mix-width: 800px) {
- 
+@media (max-width: 800px) {
+.billede_rose{
+    padding-left: 25%;
+    padding-right: 10%;
+}
+    
+.grid_1_1{
+    grid-template-columns: repeat(1, 1fr);
+    padding-left: 0; 
+    padding-right: 15%;
+    gap: 0;
+ }
+
+ .tekst_rose{
+    padding-top: 30px;
+ }
   }

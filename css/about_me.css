@@ -33,6 +33,13 @@
 }
 
 @media (max-width: 800px) {
+
+.musling{
+    max-width: 35%;
+    max-height: 35%;
+    margin: auto; /* Til at centrere vandret */  
+}
+
 .billede_rose{
     padding-left: 25%;
     padding-right: 10%;

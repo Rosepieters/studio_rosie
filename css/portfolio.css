@@ -18,7 +18,12 @@
 }
 
 @media (max-width: 800px) {  
-  
+    .musling{
+        max-width: 35%;
+        max-height: 35%;
+        margin: auto; /* Til at centrere vandret */  
+    }
+    
     .overskrift_portfolio{
         text-align: center;
         padding-top: 100px;

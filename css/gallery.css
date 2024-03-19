@@ -25,4 +25,10 @@
         margin: 50px;
         padding-bottom: 77px;
      }
+
+     .musling{
+        max-width: 35%;
+        max-height: 35%;
+        margin: auto; /* Til at centrere vandret */  
+     }
       }

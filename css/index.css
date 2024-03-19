@@ -13,8 +13,8 @@
 
 @media (max-width: 800px) {  
     .musling {
-        max-width: 50%;
-        max-height: 50%;
+        max-width: 65%;
+        max-height: 65%;
         margin: auto; /* Til at centrere vandret */
         padding-top: 3%; /* Juster denne værdi for at centrere lodret */
     }

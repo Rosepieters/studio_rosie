@@ -1,3 +1,9 @@
+.musling {
+    max-width: 20%;
+    max-height: 20%;
+    margin: auto; /* Til at centrere vandret */
+}
+
 .overskrift_portfolio{
     text-align: center;
     padding-top: 130px;

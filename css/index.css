@@ -1,23 +1,19 @@
-.overskrift_1{
-    font-family: 'Arapey', serif;
-    font-weight: 400;
-    font-size: 75px;
-    text-align: center;
-    padding-top: 170px;
+.musling {
+    max-width: 32%;
+    max-height: 32%;
+    margin: auto; /* Til at centrere vandret */
+    padding-top: 3%; /* Juster denne værdi for at centrere lodret */
 }
 
 .world{
-    padding-top: 25px;
+    padding-top: 40px;
     text-align: center;
-    font-size: 10;
+    font-size: 25px;
 }
 
 @media (max-width: 800px) {  
-    .overskrift_1{
-        font-family: 'Arapey', serif;
-        font-weight: 400;
-        font-size: 75px;
-        text-align: center;
-        padding-top: 100px;
-    }
+   .world{
+    font-size: 20px;
+    padding-top: 20px;
+   }
       }

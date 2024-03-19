@@ -1,6 +1,6 @@
 .musling {
-    max-width: 20%;
-    max-height: 20%;
+    max-width: 15%;
+    max-height: 15%;
     margin: auto; /* Til at centrere vandret */
 }
 
@@ -23,7 +23,7 @@
         max-height: 35%;
         margin: auto; /* Til at centrere vandret */  
     }
-    
+
     .overskrift_portfolio{
         text-align: center;
         padding-top: 100px;

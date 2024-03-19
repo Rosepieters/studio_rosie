@@ -183,18 +183,6 @@ nav ul {
 }
 
 
-.divider {
-  border: 0.5px solid #fff;
-  margin: 0;
-}
-
-footer {
-  background-color: #C6C5BF;
-  padding: 10px;
-  text-align: center;
-  padding-bottom: 50px;
-}
-
 
 @media (max-width: 800px) {
   footer {

@@ -15,6 +15,7 @@
     padding-left: 50px;  
 }
 
+
 .billede_rose{
     padding-left: 10%;
     padding-right: 10%;
@@ -33,6 +34,15 @@
 }
 
 @media (max-width: 800px) {
+          
+.grid_1_1{
+    grid-template-columns: repeat(1, 1fr);
+    padding-left: 0; 
+    padding-right: 15%;
+    gap: 0;
+    padding-bottom: 0;
+    margin-top: 15px;
+}
 
 .musling{
     max-width: 35%;
@@ -50,20 +60,12 @@
     padding-top: 100px;
     font-size: 25px;
 }
-    
-.grid_1_1{
-    grid-template-columns: repeat(1, 1fr);
-    padding-left: 0; 
-    padding-right: 15%;
-    gap: 0;
-    padding-bottom: 0;
-    margin-top: 15px;
-}
+
 
 .tekst_rose{
-    padding-top: 30px;
+    order: 2;
+    padding-top: 0;
 }
-
 
 .tekst_rose p{
 font-size: 15px;

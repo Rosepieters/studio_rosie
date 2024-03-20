@@ -15,6 +15,11 @@
     text-align: center;
     padding-top: 130px;
     padding-left: 45% ;
+    text-decoration: none; /* Fjern standard understregning */
+}
+
+.link_portfolio:hover {
+    text-decoration: underline; /* Tilføj understregning ved hover */
 }
 
 @media (max-width: 800px) {  

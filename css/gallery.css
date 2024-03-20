@@ -14,6 +14,12 @@
  margin: 50px;
 }
 
+.grid_1_1_1 img {
+    width: 100%; /* Sørg for at billedet fylder hele cellen */
+    height: 100%; /* Sørg for at billedet fylder hele cellen */
+    object-fit: cover; /* Skalér billedet, så det passer til containeren uden at miste proportioner */
+}
+
 @media (max-width: 800px) {  
     .grid_1_1_1{
         padding-top: 25px;
